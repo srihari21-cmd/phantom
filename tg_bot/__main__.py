@@ -38,11 +38,11 @@ HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id=919584113).
+[THIS LEGEND](tg://user?id=588897763).
 
-HIT HELP FOR COMMANDS  /help
+Hit Help For Commands  /help
 
-I AM COMPLETELY OPEN SOURCE
+I am Completly Open Source code
 
 MY SOURCE CODE IS AVAILABLE TO YOU
 
