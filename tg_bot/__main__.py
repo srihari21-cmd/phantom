@@ -38,7 +38,7 @@ HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
+[THIS LEGEND](tg://user?id=919584113).
 
 HIT HELP FOR COMMANDS  /help
 
@@ -46,7 +46,7 @@ I AM COMPLETELY OPEN SOURCE
 
 MY SOURCE CODE IS AVAILABLE TO YOU
 
-[HERE](https://github.com/leobrownlee/phantom)
+[HERE](https://telegra.ph/file/83739a465ea442a956fd3.jpg)
 
 """
 
