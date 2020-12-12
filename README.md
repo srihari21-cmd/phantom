@@ -9,7 +9,7 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
 
 
-[![phantom](https://i.extraimage.info/pix/2020/06/27/IMG_20200621_112942_177e6257.png)
+[![rocky](https://extraimages.net/images/2020/12/12/rOCKY.jpg)
 
 
 
